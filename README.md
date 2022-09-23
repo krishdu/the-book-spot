@@ -15,7 +15,7 @@ External package:
 + `@reduxjs/toolkit`
 + `react-redux`
 
-| [Live Application (👆)](https://the-book-spot-spa.herokuapp.com/) |
+| [Live Application (👆)](https://krishdu.github.io/book-store) |
 | ------ |  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
